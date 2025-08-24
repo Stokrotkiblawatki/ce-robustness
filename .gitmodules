@@ -1,0 +1,6 @@
+[submodule "CARLA"]
+	path = src/explainers/CARLA
+	url = git@github.com:istepka/CARLA.git
+[submodule "src/explainers/CARLA"]
+	path = src/explainers/CARLA
+	url = https://github.com/istepka/CARLA.git
