@@ -31,7 +31,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-### Project structure
+## Project structure
 
         `experiments`   
         ├── `notebooks`  
@@ -50,7 +50,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-### Experimental results
+## Experimental results
 
 The quantitative results, plots, and notebooks used for the thesis are located in the `experiments/thesis` folder.
 
